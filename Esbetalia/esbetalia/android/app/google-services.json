@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153472054025",
+    "firebase_url": "https://esbetalia-1812e.firebaseio.com",
+    "project_id": "esbetalia-1812e",
+    "storage_bucket": "esbetalia-1812e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153472054025:android:cc03b0cb7bfeaf73a419d8",
+        "android_client_info": {
+          "package_name": "com.kirolosatef.esbetalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153472054025-3c4mr1cph28e241dmk1latrktih4pivu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fG37eVKdIejqOZ-wPiiGViPgwkqVRGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153472054025-3c4mr1cph28e241dmk1latrktih4pivu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153472054025-9s1rgcaja201iam3iechtefc6lcu4agq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kirolosatef.esbetalia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

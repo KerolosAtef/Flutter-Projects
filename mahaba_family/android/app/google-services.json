@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135688265936",
+    "firebase_url": "https://mahaba-family.firebaseio.com",
+    "project_id": "mahaba-family",
+    "storage_bucket": "mahaba-family.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135688265936:android:6ea96775b7087fa65dfed5",
+        "android_client_info": {
+          "package_name": "com.KirolosAtef.mahabafamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135688265936-ser5csijf30qu3nrm9uqdgqj89902gkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnk6cLVs-YQiBhFRxsppyS_OR_tZC7cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135688265936-ser5csijf30qu3nrm9uqdgqj89902gkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
