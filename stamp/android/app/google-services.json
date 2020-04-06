@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538341840420",
+    "firebase_url": "https://stamp-638eb.firebaseio.com",
+    "project_id": "stamp-638eb",
+    "storage_bucket": "stamp-638eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538341840420:android:e8058ad004b1438f",
+        "android_client_info": {
+          "package_name": "com.kineticsegypt.stamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538341840420-9a43b7ubnjoavql68svfkn7u4i7g6lcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvWQTlws3-GdbQ_Xq528w8CIKpfVeMbXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538341840420-9a43b7ubnjoavql68svfkn7u4i7g6lcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
