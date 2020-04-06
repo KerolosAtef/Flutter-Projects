@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-3.0.2/android/firebase_analytics.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-3.0.2/android/firebase_analytics.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+5/android/firebase_auth.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+5/android/firebase_auth.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+3/android/firebase_core.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+3/android/firebase_core.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.0.2/android/firebase_database.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.0.2/android/firebase_database.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-5.0.2/android/firebase_messaging.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-5.0.2/android/firebase_messaging.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.7.1+1/android/flutter_local_notifications.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-0.7.1+1/android/flutter_local_notifications.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.5/android/flutter_webview_plugin.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.5/android/flutter_webview_plugin.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.1.0/android/path_provider.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.1.0/android/path_provider.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3/android/shared_preferences.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3/android/shared_preferences.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.2/android/url_launcher.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.2/android/url_launcher.iml" />
+    </modules>
+  </component>
+</project>

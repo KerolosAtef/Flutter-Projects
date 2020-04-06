@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266373448926",
+    "firebase_url": "https://reviewthat-ad3eb.firebaseio.com",
+    "project_id": "reviewthat-ad3eb",
+    "storage_bucket": "reviewthat-ad3eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266373448926:android:aea21859e5090dc6",
+        "android_client_info": {
+          "package_name": "com.kineticsegypt.review_that"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266373448926-vu43dcmvq30geje9bmdg2na1a1rsk9d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zZzq-O2iXok1EtfrrWAh_ZK9ZOLp-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266373448926-vu43dcmvq30geje9bmdg2na1a1rsk9d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
